@@ -1,0 +1,18 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "description": "An Electron app which outputs the duration of a video file",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "keywords": [
+    "electronjs"
+  ],
+  "author": "Ankit Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
